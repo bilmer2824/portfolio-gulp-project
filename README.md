@@ -12,4 +12,3 @@
 <p>Downloadable code: video player</p>
 <p>The code is located in <a href="https://github.com/islamovsabit/portfolio-gulp-project/blob/master/app/src/js/script.js/">Script</a></p>
 <img src="https://github.com/islamovsabit/portfolio-gulp-project/assets/147802380/e6cb9f96-e183-45be-903e-074f1803b778" width="50%" />
-
